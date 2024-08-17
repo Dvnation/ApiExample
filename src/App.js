@@ -1,13 +1,5 @@
 import React, { useEffect, useState } from 'react';
-// import logo from './logo.svg';
-// import './App.css';
-// import { Table } from './part2';
-// import { BrowserRouter, Route, Router, Routes, HashRouter } from 'react-router-dom';
-// import { Home } from './Components/Home';
-// import { About } from './Components/About';
-// import { NavBar } from './Components/NavBar';
-// import { HowTo } from './Components/HowTo';
-// import { Loading } from './loader';
+
 
 
 import { BrowserRouter, Route, Router, Routes, HashRouter, Link } from 'react-router-dom';
@@ -31,7 +23,6 @@ function App() {
 
 
 
-<HashRouter>
         
         <Routes>
 
@@ -45,7 +36,6 @@ function App() {
 
         </Routes>
 
-</HashRouter>
 
 
         </>
