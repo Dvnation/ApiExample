@@ -1,10 +1,9 @@
 
 
 import './googlebook.css'
-import { BrowserRouter, Route, Router, Routes, HashRouter, Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
-// // import { HeaderBut } from './headerButton';
-// import { HomeSection1 } from './HomeSection1';
+
 
 export function HeaderBut(){
 
