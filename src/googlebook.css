@@ -1,0 +1,51 @@
+
+.Header{
+
+border: 2px solid greenyellow;
+display: flex;
+justify-content: space-between;
+margin-bottom: 7px;
+}
+
+.LogoWord{
+    color: blue
+}
+
+.Headbuttons{
+    align-content: space-evenly;
+    width: 35%;
+
+}
+
+.buts{
+    margin-right: 4%;
+    background-color: burlywood;
+}
+
+.HomeSection1{
+    border: 2px solid black;
+ 
+   height: 80vh;
+   display: flex;
+}
+
+.item1{
+    width:60%;
+    align-self: center;
+
+    
+}
+
+.item2{
+    align-self: center;
+    width: 20%;
+    
+}
+
+
+.resultUl{
+    width:90vw;
+    display:grid;
+     gap:16px;
+     grid-template-columns: repeat(3,1fr);
+}
